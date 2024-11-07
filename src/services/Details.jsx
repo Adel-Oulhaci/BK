@@ -77,7 +77,7 @@ export const sliderContent = [bac1, bac2, bac3, bac5];
 export const ABOUT = [  
   {
   id: "1",
-  title: "Who is",
+  title: "What is",
   titleGreen: "BADRAT KHAYR Club?",
   description: "BADRAT KHAYR Club is a scientific and cultural club of a charitable nature that was established on October 17, 2019, includes members from different disciplines Since its inception, the club has been active in various fields where he carried out various voluntary activities for the benefit of various segments of society.",
   img: who
